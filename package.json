@@ -1,0 +1,12 @@
+{
+    "name": "@geobuff/flags",
+    "description": "Flag URL's used by the team at geobuff.com.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": "geobuff/flags",
+    "main": "index.js",
+    "keywords": [
+        "geobuff",
+        "flags"
+    ]
+}
