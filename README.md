@@ -1,6 +1,6 @@
 # geobuff/flags
-![npm](https://img.shields.io/npm/v/@geobuff/flags)
-![David](https://img.shields.io/david/geobuff/flags)
+[![npm](https://img.shields.io/npm/v/@geobuff/flags)](https://www.npmjs.com/package/@geobuff/flags)
+[![David](https://img.shields.io/david/geobuff/flags)](https://david-dm.org/geobuff/flags)
 
 A collection of free-to-use flag URL's from wikimedia.org.
 
