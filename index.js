@@ -1,6 +1,6 @@
 let index = {};
 
-const ukCounties = {
+const flags = {
     "gb-bd": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bedfordshire%27s_Flag.svg",
     "gb-bk": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Flag_of_Berkshire.svg",
     "gb-bst": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Arms_of_Bristol_City_Council.svg",
@@ -42,10 +42,7 @@ const ukCounties = {
     "gb-wr": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Warwickshire.svg",
     "gb-wl": "https://upload.wikimedia.org/wikipedia/commons/8/81/County_Flag_of_Wiltshire.svg",
     "gb-wo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Worcestershire_flag.svg",
-    "gb-yk": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Yorkshire.svg"
-};
-
-const usStates = {
+    "gb-yk": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Yorkshire.svg",
     "us-al": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Alabama.svg",
     "us-ak": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Alaska.svg",
     "us-az": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Arizona.svg",
@@ -99,12 +96,8 @@ const usStates = {
     "us-wy": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Wyoming.svg"
 };
 
-index.getUKCountyFlagUrl = (code) => {
-    return ukCounties[code];
-};
-
-index.getUSStateFlagUrl = (code) => {
-    return usStates[code];
+index.getFlagUrl = (code) => {
+    return flags[code];
 };
 
 module.exports = index;
