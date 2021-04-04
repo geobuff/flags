@@ -5,8 +5,9 @@
 A collection of free-to-use flag URL's.
 
 ## Mappings
-- 🇺🇸 US, States
-- 🇬🇧 UK, Counties
+- :earth_americas: World, Countries
+- :us: US, States
+- :uk: UK, Counties
 
 ## Install
 ```
@@ -20,7 +21,7 @@ import { getFlagUrl } from "@geobuff/flags";
 
 const ExampleComponent = () => (
   <>
-    <img src={getFlagUrl("us-al")} />
+    <img src={getFlagUrl("nz")} />
   </>
 );
 
