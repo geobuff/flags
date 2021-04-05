@@ -350,6 +350,19 @@ const flags = {
     'br-al': 'https://upload.wikimedia.org/wikipedia/commons/8/88/Bandeira_de_Alagoas.svg',
     'br-se': 'https://upload.wikimedia.org/wikipedia/commons/b/be/Bandeira_de_Sergipe.svg',
     'br-df': 'https://upload.wikimedia.org/wikipedia/commons/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg',
+    'ca-nu': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Flag_of_Nunavut.svg',
+    'ca-qc': 'https://upload.wikimedia.org/wikipedia/commons/5/5f/Flag_of_Quebec.svg',
+    'ca-nt': 'https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Northwest_Territories.svg',
+    'ca-on': 'https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Ontario.svg',
+    'ca-bc': 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg',
+    'ca-ab': 'https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Alberta.svg',
+    'ca-sk': 'https://upload.wikimedia.org/wikipedia/commons/b/bb/Flag_of_Saskatchewan.svg',
+    'ca-mb': 'https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Manitoba.svg',
+    'ca-yt': 'https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Yukon.svg',
+    'ca-nl': 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg',
+    'ca-nb': 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg',
+    'ca-ns': 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg',
+    'ca-pe': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg'
 };
 
 index.getFlagUrl = (code) => {
