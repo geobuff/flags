@@ -362,7 +362,20 @@ const flags = {
     'ca-nl': 'https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Newfoundland_and_Labrador.svg',
     'ca-nb': 'https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_New_Brunswick.svg',
     'ca-ns': 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Nova_Scotia.svg',
-    'ca-pe': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg'
+    'ca-pe': 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Flag_of_Prince_Edward_Island.svg',
+    'fr-ar': 'https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_the_region_Auvergne-Rh%C3%B4ne-Alpes.svg',
+    'fr-bf': 'https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_the_region_Bourgogne-Franche-Comt%C3%A9.svg',
+    'fr-bt': 'https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Brittany_%28Gwenn_ha_du%29.svg',
+    'fr-cn': 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Flag_of_Centre-Val_de_Loire.svg',
+    'fr-ce': 'https://upload.wikimedia.org/wikipedia/commons/7/7c/Flag_of_Corsica.svg',
+    'fr-ao': 'https://upload.wikimedia.org/wikipedia/commons/f/f3/Proposed_design_for_a_flag_of_Grand_Est.svg',
+    'fr-nc': 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Proposed_design_for_a_flag_of_Hauts-de-France.svg',
+    'fr-if': 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Proposed_flag_of_%C3%8Ele-de-France.svg',
+    'fr-nd': 'https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Normandie.svg',
+    'fr-ac': 'https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Nouvelle-Aquitaine.svg',
+    'fr-lp': 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Flag_of_R%C3%A9gion_Occitanie_%28symbol_only%29.svg',
+    'fr-pl': 'https://upload.wikimedia.org/wikipedia/commons/6/65/Unofficial_flag_of_Pays-de-la-Loire.svg',
+    'fr-pr': 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg',
 };
 
 index.getFlagUrl = (code) => {
