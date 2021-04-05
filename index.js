@@ -313,7 +313,16 @@ const flags = {
     'ar-sf': 'https://upload.wikimedia.org/wikipedia/commons/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg',
     'ar-se': 'https://upload.wikimedia.org/wikipedia/commons/0/07/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg',
     'ar-tf': 'https://upload.wikimedia.org/wikipedia/commons/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg',
-    'ar-tm': 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg'
+    'ar-tm': 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg',
+    'au-nsw': 'https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_New_South_Wales.svg',
+    'au-qld': 'https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Queensland.svg',
+    'au-sa': 'https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_South_Australia.svg',
+    'au-tas': 'https://upload.wikimedia.org/wikipedia/commons/4/46/Flag_of_Tasmania.svg',
+    'au-vic': 'https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Victoria_%28Australia%29.svg',
+    'au-wa': 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_Western_Australia.svg',
+    'au-act': 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_the_Australian_Capital_Territory.svg',
+    'au-jbt': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1e6-1f1fa.svg',
+    'au-nt': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_the_Northern_Territory.svg',
 };
 
 index.getFlagUrl = (code) => {
