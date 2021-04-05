@@ -376,6 +376,22 @@ const flags = {
     'fr-lp': 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Flag_of_R%C3%A9gion_Occitanie_%28symbol_only%29.svg',
     'fr-pl': 'https://upload.wikimedia.org/wikipedia/commons/6/65/Unofficial_flag_of_Pays-de-la-Loire.svg',
     'fr-pr': 'https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg',
+    'de-bw': 'https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Baden-W%C3%BCrttemberg.svg',
+    'de-by': 'https://upload.wikimedia.org/wikipedia/commons/1/16/Flag_of_Bavaria_%28striped%29.svg',
+    'de-be': 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Berlin.svg',
+    'de-bb': 'https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Brandenburg.svg',
+    'de-hb': 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Flag_of_Bremen.svg',
+    'de-hh': 'https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Hamburg.svg',
+    'de-he': 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Hesse.svg',
+    'de-ni': 'https://upload.wikimedia.org/wikipedia/commons/8/81/Flag_of_Lower_Saxony.svg',
+    'de-mv': 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Mecklenburg-Western_Pomerania.svg',
+    'de-nw': 'https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_North_Rhine-Westphalia.svg',
+    'de-rp': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Rhineland-Palatinate.svg',
+    'de-sl': 'https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Saarland.svg',
+    'de-sn': 'https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Saxony.svg',
+    'de-st': 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Flag_of_Saxony-Anhalt_%28state%29.svg',
+    'de-sh': 'https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Schleswig-Holstein.svg',
+    'de-th': 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Thuringia.svg'
 };
 
 index.getFlagUrl = (code) => {
