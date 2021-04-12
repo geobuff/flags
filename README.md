@@ -6,11 +6,13 @@ A collection of free-to-use flag URL's.
 
 ## Mappings
 - :earth_americas: World, Countries
-- 🇦🇺 Australia, States
+- 🇦🇺 Australia, States and Territories
 - 🇦🇷 Argentina, Provinces
 - 🇧🇷 Brazil, States
+- 🇨🇦 Canada, Provinces and Territories
 - 🇫🇷 France, Regions
 - 🇩🇪 Germany, States
+- 🇯🇵 Japan, Prefectures
 - :us: US, States
 - :uk: UK, Counties
 
