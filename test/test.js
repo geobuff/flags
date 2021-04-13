@@ -4,8 +4,8 @@ const index = require('../index');
 describe("index", () => {
     describe("getFlagUrl", () => {
         it("should return correct mapping for valid code", () => {
-            const result = index.getFlagUrl("gb-yk");
-            assert.strictEqual("https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_Yorkshire.svg", result);
+            const result = index.getFlagUrl("nz");
+            assert.strictEqual("https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f3-1f1ff.svg", result);
         });
 
         it("should return undefined for invalid code", () => {

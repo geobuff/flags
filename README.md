@@ -33,4 +33,3 @@ export default ExampleComponent;
 - 🇩🇪 Germany, States
 - 🇯🇵 Japan, Prefectures
 - :us: US, States
-- :uk: UK, Counties
