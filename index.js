@@ -86,7 +86,7 @@ const flags = {
     'it': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ee-1f1f9.svg',
     'jm': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ef-1f1f2.svg',
     'jo': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ef-1f1f4.svg',
-    'jp': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1ef-1f1f5.svg',
+    'jp': 'https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg',
     'ke': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f0-1f1ea.svg',
     'kg': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f0-1f1ec.svg',
     'kh': 'https://twemoji.maxcdn.com/v/13.0.1/svg/1f1f0-1f1ed.svg',
