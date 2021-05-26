@@ -1,7 +1,7 @@
 {
     "name": "@geobuff/flags",
     "description": "A collection of free-to-use flag URL's from wikimedia.org.",
-    "version": "1.13.0",
+    "version": "1.14.0",
     "license": "MIT",
     "repository": "geobuff/flags",
     "main": "index.js",
